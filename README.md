@@ -1,0 +1,2 @@
+# TyScript
+TypeScript but simpler
